@@ -11,7 +11,7 @@ namespace Tyuiu.KiselevEA.Sprint4.Task0.V4.Lib
                 if (array[i] % 2 == 0)
                 res *= array[i];
             }
-            return res;
+            Console.WriteLine(1);
         }
     }
 }
