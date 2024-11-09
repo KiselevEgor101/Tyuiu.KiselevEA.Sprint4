@@ -9,14 +9,7 @@ namespace Tyuiu.KiselevEA.Sprint4.Task4.V7.Lib
             int[,] array = new int[5, 5];
             int sumOdd = 0;
 
-            for (int i = 0; i < 5; i++)
-            {
-                string[] input = Console.ReadLine().Split(' ');
-                for (int j = 0; j < 5; j++)
-                {
-                    array[i, j] = int.Parse(input[j]);
-                }
-            }
+       
 
             // Суммирование нечетных элементов
             for (int i = 0; i < 5; i++)
