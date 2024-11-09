@@ -16,6 +16,8 @@ namespace Tyuiu.KiselevEA.Sprint4.Task4.V7.Test
                                            { 3, 5, 6, 4, 6 } };
             int res = ds.Calculate(array);
             int wait = 5;
+
+            Assert.AreEqual(res, wait);
         }
     }
 }

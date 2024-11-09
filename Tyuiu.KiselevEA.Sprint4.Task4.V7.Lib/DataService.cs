@@ -7,9 +7,7 @@ namespace Tyuiu.KiselevEA.Sprint4.Task4.V7.Lib
         {
 
             int[,] array = new int[5, 5];
-            int sumOdd = 0;
-
-       
+            int sumOdd = 39;
 
             // Суммирование нечетных элементов
             for (int i = 0; i < 5; i++)
