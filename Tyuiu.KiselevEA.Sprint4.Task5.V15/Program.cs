@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.KiselevEA.Sprint4.Task3.V30
+﻿namespace Tyuiu.KiselevEA.Sprint4.Task5.V15
 {
     internal class Program
     {
@@ -9,10 +9,10 @@
             Console.Title = "Спринт #4 | Выполнил: Киселев Е. А. | СМАРТб-24-1";
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #3                                                               *");
+            Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Оператор цикла for                                                *");
-            Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #5                                                              *");
+            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Вариант #15                                                             *");
             Console.WriteLine("* Выполнил: Киселев Егор Алексеевич | СМАРТб-24-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");

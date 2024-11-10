@@ -1,5 +1,5 @@
-using Tyuiu.KiselevEA.Sprint4.Task4.V7.Lib;
-namespace Tyuiu.KiselevEA.Sprint4.Task4.V7.Test
+using Tyuiu.KiselevEA.Sprint4.Task5.V15.Lib;
+namespace Tyuiu.KiselevEA.Sprint4.Task5.V15.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -15,7 +15,7 @@ namespace Tyuiu.KiselevEA.Sprint4.Task4.V7.Test
                                            { 5, 4, 4, 4, 5 },
                                            { 3, 5, 6, 4, 6 } };
             int res = ds.Calculate(array);
-            int wait = 39;
+            int wait = 115;
 
             Assert.AreEqual(res, wait);
         }
